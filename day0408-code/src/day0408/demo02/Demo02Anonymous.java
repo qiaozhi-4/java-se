@@ -9,7 +9,6 @@ public class Demo02Anonymous {
         methodParam(new Scanner(System.in));
     }
 
-
     public static void methodParam(Scanner sc){
         System.out.println("请输入一个整数：");
         int num = sc.nextInt();
