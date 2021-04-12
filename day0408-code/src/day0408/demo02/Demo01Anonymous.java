@@ -10,6 +10,8 @@ new 类名称();
 
  */
 public class Demo01Anonymous {
+
+
     public static void main(String[] args) {
 
         //左边的one就是对象的名字
