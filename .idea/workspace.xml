@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d192349-d37f-46bf-a250-20951524e272" name="Default Changelist" comment="First commit all" />
+    <list default="true" id="3d192349-d37f-46bf-a250-20951524e272" name="Default Changelist" comment="First commit all">
+      <change beforePath="$PROJECT_DIR$/day30-code/day30-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day30-code/day30-code.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +72,7 @@
       <workItem from="1617113010146" duration="2000" />
       <workItem from="1618202514979" duration="423000" />
       <workItem from="1618202957910" duration="1945000" />
+      <workItem from="1618204932131" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="First commit all">
       <created>1618203268664</created>
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618204877839</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First commit all">
+      <created>1618204954000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618204954000</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +116,17 @@
         <option value="Default.Date" />
         <option value="Default.Subject" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
