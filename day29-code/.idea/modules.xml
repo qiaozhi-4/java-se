@@ -3,10 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day04-code.iml" filepath="$PROJECT_DIR$/day04-code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../day0402-code/day0402-code.iml" filepath="$PROJECT_DIR$/../day0402-code/day0402-code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../day0408-code/day0408-code.iml" filepath="$PROJECT_DIR$/../day0408-code/day0408-code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../day0413-code/day0413-code.iml" filepath="$PROJECT_DIR$/../day0413-code/day0413-code.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../day30-code/day30-code.iml" filepath="$PROJECT_DIR$/../day30-code/day30-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day06-code/day0402-code.iml" filepath="$PROJECT_DIR$/../day06-code/day0402-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day07-code/day0408-code.iml" filepath="$PROJECT_DIR$/../day07-code/day0408-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day08-code/day0413-code.iml" filepath="$PROJECT_DIR$/../day08-code/day0413-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day05-code/day30-code.iml" filepath="$PROJECT_DIR$/../day05-code/day30-code.iml" />
     </modules>
   </component>
 </project>

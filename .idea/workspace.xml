@@ -3,7 +3,75 @@
   <component name="ChangeListManager">
     <list default="true" id="3d192349-d37f-46bf-a250-20951524e272" name="Default Changelist" comment="First commit all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo02/Demo01Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/day0408-code/src/day0408/demo02/Demo01Anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/day0402-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/day0402-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo01/Demo01PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo01/Demo01PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo01/Demo02Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo01/Demo02Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo01/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo02/Demo01PhoneOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo02/Demo01PhoneOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo02/Demo02PhoneTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo02/Demo02PhoneTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo02/Demo03PhoneSame.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo02/Demo03PhoneSame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo02/Demo04PhoneParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo02/Demo04PhoneParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo02/Demo05PhoneReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo02/Demo05PhoneReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo02/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo02/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo03/Demo01VariableDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo03/Demo01VariableDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo03/Demo02Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo03/Demo02Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo03/Demo03Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo03/Demo03Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo03/Demo04Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo03/Demo04Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo03/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo03/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo03/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo03/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo04/Demo01Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo04/Demo01Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo04/Demo02Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo04/Demo02Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo04/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo04/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo04/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo05/Dome01Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo05/Dome01Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0402-code/src/day0402/demo05/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06-code/src/day0402/demo05/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/day0408-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/day0408-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo01/Demo01Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo01/Demo01Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo01/Demo02ScannerSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo01/Demo02ScannerSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo01/Demo03ScannerMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo01/Demo03ScannerMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo02/Demo01Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo02/Demo01Anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo02/Demo02Anonymous.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo02/Demo02Anonymous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo02/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo02/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo03/Demo01Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo03/Demo01Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo03/Demo02Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo03/Demo02Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo03/Demo03Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo03/Demo03Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo03/Demo04RandomGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo03/Demo04RandomGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo04/Demo01Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo04/Demo01Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo04/Demo02ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo04/Demo02ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo04/Demo03ArrayListMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo04/Demo03ArrayListMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo04/Demo04ArrayListEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo04/Demo04ArrayListEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo04/Demo05ArrayListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo04/Demo05ArrayListBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo04/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo04/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo05/Demo01ArrayListRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo05/Demo01ArrayListRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo05/Demo02ArrayListStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo05/Demo02ArrayListStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo05/Demo03ArrayListPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo05/Demo03ArrayListPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo05/Demo04ArrayListReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo05/Demo04ArrayListReturn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0408-code/src/day0408/demo05/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07-code/src/day0408/demo05/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0413-code/day0413-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day08-code/day0413-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0413-code/src/day0413/demo01/Demo01String.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08-code/src/day0413/demo01/Demo01String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0413-code/src/day0413/demo01/Demo02StringPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08-code/src/day0413/demo01/Demo02StringPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0413-code/src/day0413/demo02/Demo01StringEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08-code/src/day0413/demo02/Demo01StringEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0413-code/src/day0413/demo02/Demo02StringGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08-code/src/day0413/demo02/Demo02StringGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day0413-code/src/day0413/demo02/Demo03Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08-code/src/day0413/demo02/Demo03Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day29-code/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day29-code/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/day30-code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/day30-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo01/Demo01Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo01/Demo01Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo01/Demo02Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo01/Demo02Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo01/Demo03Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo01/Demo03Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo01/Demo04ArrayUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo01/Demo04ArrayUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo01/Demo05ArrayUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo01/Demo05ArrayUse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo02/Demo01ArrayOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo02/Demo01ArrayOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo02/Demo02ArrayTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo02/Demo02ArrayTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo02/Demo03ArraySame.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo02/Demo03ArraySame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo01ArrayIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo01ArrayIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo02ArrayNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo02ArrayNull.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo03ArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo03ArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo04Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo04Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo05ArrayMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo05ArrayMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo06ArrayMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo06ArrayMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo03/Demo07ArrayReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo03/Demo07ArrayReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo04/Demo01ArrayParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo04/Demo01ArrayParam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day30-code/src/cn/itcast/day05/demo04/Demo02ArrayParam.java" beforeDir="false" afterPath="$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo04/Demo02ArrayParam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +126,6 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -91,6 +146,8 @@
       <workItem from="1618216541102" duration="1092000" />
       <workItem from="1618217688150" duration="300000" />
       <workItem from="1618218009288" duration="171000" />
+      <workItem from="1618293196813" duration="34000" />
+      <workItem from="1618293260608" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="First commit all">
       <created>1618203268664</created>
