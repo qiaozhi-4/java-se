@@ -23,6 +23,7 @@ import java.util.Random;
 public class Demo04ArrayListReturn {
     public static void main(String[] args) {
         ArrayList<Integer> listA = new ArrayList<>();//创建大数组
+        System.out.println(listA);
 
         Random r = new Random();
 
@@ -33,7 +34,7 @@ public class Demo04ArrayListReturn {
         //System.out.println(list);
         ArrayList<Integer> listB = getSmaLlList(listA);
         System.out.println("偶数总共有" + listB.size() + "个。");
-        for (int i = 0; i < 20; i++) {
+        for (int i = 0; i < listB.size(); i++) {
             System.out.println(listB.get(i));
         }
 
