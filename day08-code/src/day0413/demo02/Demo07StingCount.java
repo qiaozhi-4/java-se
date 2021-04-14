@@ -14,7 +14,7 @@ package day0413.demo02;
 
 import java.util.Scanner;
 
-public class Demo06StingCount {
+public class Demo07StingCount {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("请从键盘输入一个字符串!");
